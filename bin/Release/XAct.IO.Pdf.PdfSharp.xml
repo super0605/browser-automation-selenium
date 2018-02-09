@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>XAct.IO.Pdf.PdfSharp</name>
+    </assembly>
+    <members>
+        <member name="T:XAct.IO.SOMECLASSNAME">
+            <summary>
+              An XAct.IO.Pdf.PdfSharp class.
+            </summary>
+        </member>
+    </members>
+</doc>
